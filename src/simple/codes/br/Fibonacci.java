@@ -1,7 +1,7 @@
 package simple.codes.br;
 /**
  * 
- * @author edson
+ * @author edson 
  *
  */
 public class Fibonacci {
